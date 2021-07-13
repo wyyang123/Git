@@ -30,6 +30,8 @@ $ git commit -m "解释注释 add README.md file" 添加到版本区
 $ git push 到远程仓库
 ```
 ## 注意
+```
 $ vim readme.md 进入readme.md进行编译 退出时:wq
 $ pwd 看路径
 $ clear 清除窗口
+```
